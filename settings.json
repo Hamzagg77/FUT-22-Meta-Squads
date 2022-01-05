@@ -34,7 +34,7 @@
 		"customstring2": "Hi 2",
 		"adserving": false,
 		"ServingType": 2,
-		"activenetwork": "unity,
+		"activenetwork": "unity",
 		"forceupdate": false,
 		"moreapps": "app.io.id",
 		"newPackage": "app.io.id"
