@@ -20,7 +20,7 @@
 		"unityreward": "Rewarded_Android",
 		"unitybanner": "Banner_Android",
 		"unitystatus": true,
-		"unitydebug": true,
+		"unitydebug": false,
 		"TapdaqAppID": "61a03b6686c31c4e07c11355",
 		"TapdaqClientKey": "edaa5dc0-7aac-4202-aafc-722773bbe1f9",
 		"TapdaqInterstitial": "default",
