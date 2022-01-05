@@ -33,7 +33,7 @@
 		"customstring1": "Hi 1",
 		"customstring2": "Hi 2",
 		"adserving": true,
-		"ServingType": 1,
+		"ServingType": 2,
 		"activenetwork": "admob",
 		"forceupdate": false,
 		"moreapps": "app.io.id",
