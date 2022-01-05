@@ -32,7 +32,7 @@
 		"customInt2": 0,
 		"customstring1": "Hi 1",
 		"customstring2": "Hi 2",
-		"adserving": true,
+		"adserving": false,
 		"ServingType": 1,
 		"activenetwork": "ironsrc",
 		"forceupdate": false,
