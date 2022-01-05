@@ -13,7 +13,7 @@
 		"ironsourceinterstitial": "DefaultInterstitial",
 		"ironsourcereward": "DefaultRewardedVideo",
 		"ironsourcebanner": "DefaultBanner",
-		"ironsourcestatus": false,
+		"ironsourcestatus": true,
 		"ironsourceironsrcappID": "122fc680d",
 		"unitygameid": "4511453",
 		"unityinterstitial": "Interstitial_Android",
