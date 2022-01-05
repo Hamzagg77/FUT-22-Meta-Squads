@@ -34,7 +34,7 @@
 		"customstring2": "Hi 2",
 		"adserving": true,
 		"ServingType": 1,
-		"activenetwork": "ironsrc",
+		"activenetwork": "admob",
 		"forceupdate": false,
 		"moreapps": "app.io.id",
 		"newPackage": "app.io.id"
